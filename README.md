@@ -1,1 +1,3 @@
-# API-rest-exercise-
+# API-rest-exercise
+
+exercício de API integrado com CRUD
